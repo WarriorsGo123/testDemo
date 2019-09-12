@@ -18,6 +18,10 @@ public class test{
         String in = "2018-08-12 14:24:13";
         Date parse = simpleDateFormat.parse(in);
         System.out.println(parse);
+        System.out.println(1);
+        System.out.println(2);
+        System.out.println(3);
+        System.out.println(4);
 
     }
     }
